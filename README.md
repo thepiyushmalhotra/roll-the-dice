@@ -1,5 +1,7 @@
 # Roll the Dice
 
+![flutter_dice](https://user-images.githubusercontent.com/46517096/170357746-f80fa1d7-709b-40bb-bd81-3ca2c848f3d6.png)
+
 Another simple project from my Flutter learning trajectory similar
 to my previous digital business card application. This app basically
 rolls the two dice when clicked on them and settle the score with
