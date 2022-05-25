@@ -4,7 +4,7 @@
 
 Another simple project from my Flutter learning trajectory similar
 to my previous digital business card application. This app basically
-rolls the two dice when clicked on them and settle the score with
+rolls the two dice when clicked on them and settles the score with
 your friends.
 
 ## Some Useful Flutter Resources
